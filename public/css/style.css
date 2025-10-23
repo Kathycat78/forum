@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Slackey&display=swap");
+body {
+    background-image: url("/img/le-paysage-fantastique-des-champignons.jpg");
+    background-size: cover;
+    font-size: 20px;;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    color: violet;
+    font-family: "Slackey", sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+.nav {
+    background-color: rgb(92, 52, 15);
+}
+
+footer {
+    background-color: rgb(92, 52, 15);
+    color: violet;
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 50px;
+}
+
+.myBody {
+    margin: 4%;
+    padding: 3%;
+    background-color: rgba(250, 247, 255, 0.945);
+    min-height: 500px;
+    border-radius: 30px;
+}
+
+.pInFooter {
+    text-decoration: none;
+    color: violet;
+}
